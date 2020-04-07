@@ -8,7 +8,7 @@ Pytorch implementation of Microsoft's Unified Language Model Pre-training for Ko
 
 ## Acknowledgement
 
-A large proportion of this implementation is from [BERT-pytorch](https://github.com/codertimo/BERT-pytorch)
+A large portion of this implementation is from [BERT-pytorch](https://github.com/codertimo/BERT-pytorch)
 
 ## Data
 Place a train text file and a test file (both are one sentence per line) into `./data` directory and set each path for `main.py`'s `train_dataset_path` and `test_dataset_path arguments`
